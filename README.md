@@ -14,7 +14,7 @@ My focus is clean architecture, fault tolerance, and system predictability. I pr
 * **Full-stack Development & Integrations**
   Building cross-platform mobile apps (React Native / Expo) and web platforms (React, Tailwind, Vite). Example: a real estate aggregator with a unified database and real-time chats.
 * **Event-Driven Systems**
-  Developing synchronously managed systems. Example: [Ratarui](https://argoonid.github.io/Ratarui/) — infrastructure for a gastronomic dinner with synchronized course serving, orchestrated via a Telegram bot.
+  Developing synchronously managed systems. Example: [Ratarui](https://cinema.sharmadamtours.com/) — infrastructure for a gastronomic dinner with synchronized course serving, orchestrated via a Telegram bot.
 * **Custom UI/UX (Pet Project)**
   An interactive web hub for piano learning featuring custom rendering (falling notes visualization) for synthesizers.
 
@@ -43,7 +43,7 @@ My focus is clean architecture, fault tolerance, and system predictability. I pr
 * **Full-stack Разработка & Интеграции**
   Создание кроссплатформенных мобильных приложений (React Native / Expo) и веб-платформ (React, Tailwind, Vite). Пример: агрегатор недвижимости с единой базой данных и чатами.
 * **Событийно-ориентированные системы**
-  Разработка систем с синхронным управлением. Например, [Ratarui](https://argoonid.github.io/Ratarui/) — инфраструктура для гастрономического вечера с синхронной подачей блюд, управляемая через Telegram-бота.
+  Разработка систем с синхронным управлением. Например, [Ratarui](https://cinema.sharmadamtours.com/) — инфраструктура для гастрономического вечера с синхронной подачей блюд, управляемая через Telegram-бота.
 * **Нестандартные UI/UX решения (Pet-project)**
   Разработка интерактивного веб-хаба для обучения игре на фортепиано с кастомным рендерингом (визуализация падающих нот) для синтезатора.
 
